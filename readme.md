@@ -29,11 +29,11 @@ The wizardry happens with a blend of cutting-edge technologies:
 
 ## **Team Members 🤝**
 Meet the masterminds behind the project:
-- **Mohamed Thanish.M (811720243029) 🧑‍💻**
-- **Arockia Joshuva.J (811720243006) 🧑‍💻**
-- **Kuberan (811720243303) 🧑‍💻**
+- **Seshanth B (811722104137) 🧑‍💻**
+- **Sham josephraj W (811722104140) 🧑‍💻**
+- **Yogesh Waran T.K (811722104189) 🧑‍💻**
 
 ## **Contact 📬**
-Have questions or suggestions? Reach out to Mohamed Thanish M. at mohamedthanish14@gmail.com 📧
+Have questions or suggestions? Reach out to Sham Josephraj at shamjoesph658@gmail.com📧
 
 Join us in reshaping the way individuals with color deficiency perceive the world! 🎨✨
