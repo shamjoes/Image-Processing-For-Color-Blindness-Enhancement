@@ -10,7 +10,7 @@ camera = cv2.VideoCapture(0)
 r = g = b = xpos = ypos = 0
 
 index = ['color', 'color_name', 'hex', 'R', 'G', 'B']
-file_path = 'C:/design project sem 7/batch-09 dp/WORKING WITH EXECUTION(Code)/colors.csv'
+file_path = 'colors.csv'
 df = pd.read_csv(file_path, names=index, header=None)
 
 
